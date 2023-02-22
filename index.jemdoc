@@ -1,0 +1,134 @@
+# jemdoc: notime, title{Guo-Hua Wang (王国华)}
+= Guo-Hua Wang (王国华)
+
+~~~
+{}{table}{person}
+[img{175}{175}{wangguohua} image/wanggh.png caption]  
+|
+
+Guo-Hua Wang,\n
+Ph.D. candidate, [http://www.lamda.nju.edu.cn/CH.MainPage.ashx LAMDA Group]\n
+[http://cs.nju.edu.cn/ Department of Computer Science and Technology]\n
+[http://keysoftlab.nju.edu.cn/ State Key Laboratory for Novel Software Technology]\n
+[https://www.nju.edu.cn/ Nanjing University]\n
+Supervisor: Prof. [http://cs.nju.edu.cn/wujx/ Jianxin Wu]\n
+e-mail: wangguohua {at} lamda.nju.edu.cn, wangguohuakey {at} gmail.com \n 
+|
+
+[https://www.nju.edu.cn/ [img{100}{120}{nju} image/nju.jpg nju] ]
+
+[http://www.lamda.nju.edu.cn/CH.MainPage.ashx [img{179}{85}{lamda} image/lamda.jpg lamda] ]
+|| 
+
+~~~
+
+
+== Biography
+
+Guo-Hua Wang is currently a fifth year Ph.D. candidate of [http://cs.nju.edu.cn/ Department of Computer Science and Technology] in [https://www.nju.edu.cn/ Nanjing University] and a member of [http://www.lamda.nju.edu.cn/CH.MainPage.ashx LAMDA Group].
+Before his Ph.D. career, he received the B.Sc. degree in [http://sme.nju.edu.cn/ School of Management & Engineering] in June 2018 from [https://www.nju.edu.cn/ Nanjing University].
+In the same year, he was admitted to study for the Ph.D. degree in [https://www.nju.edu.cn/ Nanjing University] without entrance examination.\n
+
+- In July to Novemeber 2021, he was an intern at [https://open.youtu.qq.com/\#/open YouTu Lab], [https://www.tencent.com/zh-cn Tencent].
+- In March to October 2022, he was an intern at [https://www.microsoft.com/en-us/research/group/media-computing-group/ Media Computing], [https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/ MSRA], [https://www.microsoft.com/en-us/research/ Microsoft].
+
+== Research Interests
+
+His research interests include *Machine Learning* and *Deep Learning*. Currently, he focuses on:\n
+- *Multi-model Learning*: Knowledge Distillation, Model Compression/Acceleration.  
+- *Few-label Learning*: Semi-Supervised Learning, Few-shot Learning.
+
+== Publications
+
+=== Conference Articles
+
+- *EVC: Towards Real-Time Neural Image Compression with Mask Decay*  \n 
+_Guo-Hua Wang_, Jiahao Li, Bin Li, Yan Lu. \n 
+In: Proc. the 11th International Conference on Learning Representations ([https://iclr.cc/Conferences/2023 ICLR 2023]), Kigali, Rwanda, May 2023, pp.1-23. \n 
+[https://openreview.net/forum?id=XUxad2Gj40n \[openreview\]][https://arxiv.org/abs/2302.05071 \[arXiv\]][file/EVC.pdf \[PDF\]][https://github.com/microsoft/DCVC \[code\]] 
+
+- *Repetitive Reprediction Deep Decipher for Semi-Supervised Learning* \n 
+_Guo-Hua Wang_, Jianxin Wu. \n
+In: Proc. the 34th AAAI Conference on Artificial Intelligence ([https://aaai.org/Conferences/AAAI-20/ AAAI 2020]), New York, USA, Feb. 2020, pp. 6170-6177. \n 
+[https://arxiv.org/abs/1908.04345 \[arXiv\]][file/R2D2.pdf \[PDF\]][https://aaai.org/ojs/index.php/AAAI/article/view/6082 \[paper\]][file/R2D2_Poster.pdf \[poster\]][https://github.com/DoctorKey/R2D2.pytorch \[code\]] 
+
+=== Journal Articles
+
+- *How to Reduce Change Detection to Semantic Segmentation* \n
+_Guo-Hua Wang_, Bin-Bin Gao, Chengjie Wang. \n
+Pattern Recognition ([https://www.sciencedirect.com/journal/pattern-recognition PR]), Vol. 138, Article 109384, 2023. \n 
+[https://arxiv.org/abs/2206.07557 \[arXiv\]][https://www.sciencedirect.com/science/article/pii/S0031320323000857 \[ScienceDirect\]][file/C3PO.pdf \[PDF\]][https://github.com/DoctorKey/C-3PO \[code\]] \n
+
+- *Distilling Knowledge by Mimicking Features* \n
+_Guo-Hua Wang_, Yifan Ge, Jianxin Wu. \n
+IEEE Transactions on Pattern Analysis and Machine Intelligence ([https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34 TPAMI]), 44(11):8183-8195, 2022. \n 
+[https://arxiv.org/abs/2011.01424 \[arXiv\]][file/LSHKD.pdf \[PDF\]][https://ieeexplore.ieee.org/document/9511848 \[IEEE Xplore\]][https://github.com/DoctorKey/LSHFM.singleclassification \[code\]] 
+
+=== Technical Reports
+
+- *Practical Network Acceleration with Tiny Sets* \n
+_Guo-Hua Wang_, Jianxin Wu. \n 
+In arXiv preprint arXiv:2202.07861, 2022. \n 
+[https://arxiv.org/abs/2202.07861 \[arXiv\]][file/Practise.pdf \[PDF\]] 
+
+- *R2-D2: Repetitive Reprediction Deep Decipher for Semi-Supervised Deep Learning* \n 
+_Guo-Hua Wang_, Jianxin Wu. \n 
+In arXiv preprint arXiv:2202.08955, 2022. \n 
+[https://arxiv.org/abs/2202.08955 \[arXiv\]][file/R2D2_Journal.pdf \[PDF\]][https://github.com/DoctorKey/R2D2.pytorch \[code\]] 
+
+- *PENCIL: Deep Learning with Noisy Labels* \n 
+Kun Yi, _Guo-Hua Wang_, Jianxin Wu. \n 
+In arXiv preprint arXiv:2202.08436, 2022. \n 
+[https://arxiv.org/abs/2202.08436 \[arXiv\]][file/PENCIL.pdf \[PDF\]][https://github.com/yikun2019/PENCIL \[code\]] 
+
+== Services
+
+=== Conference Reviewers
+
+- [http://cvpr2023.thecvf.com/ CVPR2023], [http://cvpr2022.thecvf.com/ CVPR2022], [http://cvpr2021.thecvf.com/ CVPR2021]
+- [http://iccv2021.thecvf.com/ ICCV2021]
+- [https://eccv2022.ecva.net/ ECCV2022], [https://eccv2020.eu/ ECCV2020]
+- [https://ijcai-23.org/ IJCAI-ECAI 2023], [https://ijcai-22.org/ IJCAI-ECAI 2022], [https://ijcai-21.org/ IJCAI2021]
+- [https://www.icpr2020.it/ ICPR2020]
+- [http://pakdd.net/ PAKDD2023], [http://pakdd.net/ PAKDD2022]
+
+=== Journal Reviewers
+
+- [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)]
+- [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385 IEEE Transactions on Neural Networks and Learning Systems (TNNLS)]
+- [https://www.journals.elsevier.com/pattern-recognition Elsevier Journal of Pattern Recognition (PR)]
+
+=== Teaching Assistant
+
+- [https://moc.wangguohua.site/ Introduction to Computation Theory], Spring, 2021 (+He builds the website+)
+- [https://cs.nju.edu.cn/wujx/teaching_PR.html Pattern Recognition], Spring, 2021
+- [https://moc.wangguohua.site/ Introduction to Computation Theory], Spring, 2020
+- [https://cs.nju.edu.cn/wujx/teaching_PR.html Pattern Recognition], Spring, 2019
+
+== Contests & Awards
+
+- Microsoft Research Asia Stars of Tomorrow (Award of Excellence). /2022/
+- National Scholarship for Doctoral Students. /2021/
+- Excellent Student of Nanjing University. /2021/
+- Honorable mention in the competition of [https://developer.huawei.com/consumer/cn/activity/digixActivity/digixdetail/101592535978459755 2020 DIGIX Global AI Challenge]. [file/DIGIX.pdf \[slides\]][https://github.com/DoctorKey/DIGIX_2020_B_image_retrieval \[code\]]
+- Scholarship of CFETS Information Technology. /2019/
+- Presidential Special Scholarship for first year Ph.D. Student in Nanjing University. /2018/
+- Outstanding Graduate of Nanjing University. /2018/
+- National Third Prize of [https://ccdm2018.sdufe.edu.cn/sjwjjs.htm the 3rd China Data Mining Competition]. /2018/
+- Excellent Student of Nanjing University. /2016,2017/
+- Pacemaker to Excellent Youth League Member. /2016/
+- National Scholarship for Undergraduate Students. /2015/
+
+== Correspondence
+
+=== Mail
+
+Guo-Hua Wang \n
+State Key Laboratory for Novel Software Technology\n
+Nanjing University\n
+163 Xianlin Avenue, Qixia District\n
+Nanjing 210023, China\n
+
+=== Laboratory
+
+912, Building of Computer Science and Technology, Xianlin Campus of Nanjing University 
