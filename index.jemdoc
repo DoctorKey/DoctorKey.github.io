@@ -42,6 +42,12 @@ His research interests include *Machine Learning* and *Deep Learning*. Currently
 
 === Conference Articles
 
+- *Practical Network Acceleration with Tiny Sets* \n
+_Guo-Hua Wang_, Jianxin Wu. \n 
+In: Proc. the IEEE/CVF Conference on Computer Vision and Pattern Recognition ([https://cvpr2023.thecvf.com/ CVPR 2023]), Vancouver, Canada, June 2023, pp. XX-XX. \n
+[https://arxiv.org/abs/2202.07861 \[arXiv\]][file/Practise.pdf \[PDF\]][https://github.com/DoctorKey/Practise \[code\]] 
+
+
 - *EVC: Towards Real-Time Neural Image Compression with Mask Decay*  \n 
 _Guo-Hua Wang_, Jiahao Li, Bin Li, Yan Lu. \n 
 In: Proc. the 11th International Conference on Learning Representations ([https://iclr.cc/Conferences/2023 ICLR 2023]), Kigali, Rwanda, May 2023, pp.1-23. \n 
@@ -66,10 +72,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence ([https://ieeexpl
 
 === Technical Reports
 
-- *Practical Network Acceleration with Tiny Sets* \n
+- *Practical Network Acceleration with Tiny Sets: Hypothesis, Theory, and Algorithm* (+His best paper+) \n 
 _Guo-Hua Wang_, Jianxin Wu. \n 
-In arXiv preprint arXiv:2202.07861, 2022. \n 
-[https://arxiv.org/abs/2202.07861 \[arXiv\]][file/Practise.pdf \[PDF\]] 
+In arXiv preprint arXiv:2303.00972, 2023. \n 
+[https://arxiv.org/abs/2303.00972 \[arXiv\]][file/Practise_Journal.pdf \[PDF\]][https://github.com/DoctorKey/Practise \[code\]] 
 
 - *R2-D2: Repetitive Reprediction Deep Decipher for Semi-Supervised Deep Learning* \n 
 _Guo-Hua Wang_, Jianxin Wu. \n 
@@ -86,7 +92,7 @@ In arXiv preprint arXiv:2202.08436, 2022. \n
 === Conference Reviewers
 
 - [http://cvpr2023.thecvf.com/ CVPR2023], [http://cvpr2022.thecvf.com/ CVPR2022], [http://cvpr2021.thecvf.com/ CVPR2021]
-- [http://iccv2021.thecvf.com/ ICCV2021]
+- [https://iccv2023.thecvf.com/ ICCV2023], [http://iccv2021.thecvf.com/ ICCV2021]
 - [https://eccv2022.ecva.net/ ECCV2022], [https://eccv2020.eu/ ECCV2020]
 - [https://ijcai-23.org/ IJCAI-ECAI 2023], [https://ijcai-22.org/ IJCAI-ECAI 2022], [https://ijcai-21.org/ IJCAI2021]
 - [https://www.icpr2020.it/ ICPR2020]
