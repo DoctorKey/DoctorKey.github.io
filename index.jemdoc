@@ -7,12 +7,13 @@
 |
 
 Guo-Hua Wang,\n
-Ph.D. candidate, [http://www.lamda.nju.edu.cn/CH.MainPage.ashx LAMDA Group]\n
+Ph.D., [http://www.lamda.nju.edu.cn/CH.MainPage.ashx LAMDA Group]\n
 [http://cs.nju.edu.cn/ Department of Computer Science and Technology]\n
 [http://keysoftlab.nju.edu.cn/ State Key Laboratory for Novel Software Technology]\n
 [https://www.nju.edu.cn/ Nanjing University]\n
 Supervisor: Prof. [http://cs.nju.edu.cn/wujx/ Jianxin Wu]\n
 e-mail: wangguohua {at} lamda.nju.edu.cn, wangguohuakey {at} gmail.com \n 
+CV: [file/cv_eng.pdf English version]
 |
 
 [https://www.nju.edu.cn/ [img{100}{120}{nju} image/nju.jpg nju] ]
@@ -22,10 +23,11 @@ e-mail: wangguohua {at} lamda.nju.edu.cn, wangguohuakey {at} gmail.com \n
 
 ~~~
 
+- He has successfully defended his PhD dissertation and [https://doctorkey.github.io/ here] is his new homepage. (+Update 2023+)
 
 == Biography
 
-Guo-Hua Wang is currently a fifth year Ph.D. candidate of [http://cs.nju.edu.cn/ Department of Computer Science and Technology] in [https://www.nju.edu.cn/ Nanjing University] and a member of [http://www.lamda.nju.edu.cn/CH.MainPage.ashx LAMDA Group].
+Guo-Hua Wang received his Ph.D. degree from [http://cs.nju.edu.cn/ Department of Computer Science and Technology] of Nanjing University in May 2023, and he was a member of [http://www.lamda.nju.edu.cn/CH.MainPage.ashx LAMDA Group].
 Before his Ph.D. career, he received the B.Sc. degree in [http://sme.nju.edu.cn/ School of Management & Engineering] in June 2018 from [https://www.nju.edu.cn/ Nanjing University].
 In the same year, he was admitted to study for the Ph.D. degree in [https://www.nju.edu.cn/ Nanjing University] without entrance examination.\n
 
@@ -44,14 +46,14 @@ His research interests include *Machine Learning* and *Deep Learning*. Currently
 
 - *Practical Network Acceleration with Tiny Sets* \n
 _Guo-Hua Wang_, Jianxin Wu. \n 
-In: Proc. the IEEE/CVF Conference on Computer Vision and Pattern Recognition ([https://cvpr2023.thecvf.com/ CVPR 2023]), Vancouver, Canada, June 2023, pp. XX-XX. \n
-[https://arxiv.org/abs/2202.07861 \[arXiv\]][file/Practise.pdf \[PDF\]][https://github.com/DoctorKey/Practise \[code\]] 
+In: Proc. the IEEE/CVF Conference on Computer Vision and Pattern Recognition ([https://cvpr2023.thecvf.com/ CVPR 2023]), Vancouver, Canada, June 2023, pp. 20331-20340. \n
+[https://arxiv.org/abs/2202.07861 \[arXiv\]][file/Practise.pdf \[PDF\]][file/Practise_poster.pdf \[poster\]][https://github.com/DoctorKey/Practise \[code\]][https://cvpr2023.thecvf.com/virtual/2023/poster/21893 \[virtual\]] 
 
 
 - *EVC: Towards Real-Time Neural Image Compression with Mask Decay*  \n 
 _Guo-Hua Wang_, Jiahao Li, Bin Li, Yan Lu. \n 
 In: Proc. the 11th International Conference on Learning Representations ([https://iclr.cc/Conferences/2023 ICLR 2023]), Kigali, Rwanda, May 2023, pp.1-23. \n 
-[https://openreview.net/forum?id=XUxad2Gj40n \[openreview\]][https://arxiv.org/abs/2302.05071 \[arXiv\]][file/EVC.pdf \[PDF\]][https://github.com/microsoft/DCVC \[code\]] 
+[https://openreview.net/forum?id=XUxad2Gj40n \[openreview\]][https://arxiv.org/abs/2302.05071 \[arXiv\]][file/EVC.pdf \[PDF\]][file/EVC_poster.pdf \[poster\]][https://github.com/microsoft/DCVC \[code\]][https://iclr.cc/virtual/2023/poster/12015 \[virtual\]]  
 
 - *Repetitive Reprediction Deep Decipher for Semi-Supervised Learning* \n 
 _Guo-Hua Wang_, Jianxin Wu. \n
@@ -87,6 +89,18 @@ Kun Yi, _Guo-Hua Wang_, Jianxin Wu. \n
 In arXiv preprint arXiv:2202.08436, 2022. \n 
 [https://arxiv.org/abs/2202.08436 \[arXiv\]][file/PENCIL.pdf \[PDF\]][https://github.com/yikun2019/PENCIL \[code\]] 
 
+=== Patent
+
+- *图像变化识别方法、装置、设备和存储介质* \n 
+_Guo-Hua Wang_\n 
+CN114612901A. 2022-06-10 \n
+[https://izhuanli.com/patentservice/CN202210253738.3.html \[link\]][file/C3PO_patent.pdf \[PDF\]]
+
+=== Thesis
+
+- *Research on Theories and Approaches for Deep Model Compression* \n 
+_Guo-Hua Wang_
+
 == Services
 
 === Conference Reviewers
@@ -94,6 +108,8 @@ In arXiv preprint arXiv:2202.08436, 2022. \n
 - [http://cvpr2023.thecvf.com/ CVPR2023], [http://cvpr2022.thecvf.com/ CVPR2022], [http://cvpr2021.thecvf.com/ CVPR2021]
 - [https://iccv2023.thecvf.com/ ICCV2023], [http://iccv2021.thecvf.com/ ICCV2021]
 - [https://eccv2022.ecva.net/ ECCV2022], [https://eccv2020.eu/ ECCV2020]
+- [https://neurips.cc/Conferences/2023 NeurIPS2023]
+- [https://ecai2023.eu ECAI2023]
 - [https://ijcai-23.org/ IJCAI-ECAI 2023], [https://ijcai-22.org/ IJCAI-ECAI 2022], [https://ijcai-21.org/ IJCAI2021]
 - [https://www.icpr2020.it/ ICPR2020]
 - [http://pakdd.net/ PAKDD2023], [http://pakdd.net/ PAKDD2022]
