@@ -8,8 +8,7 @@
 
 Guo-Hua Wang,\n
 Ph.D., Algorithm Researcher & Engineer\n
-[https://consumer.huawei.com/cn/mobileservices/ Consumer Cloud Service CBG]\n
-[https://www.huawei.com/ Huawei], Hangzhou\n
+[https://www.alibaba.com/ Alibaba], Hangzhou\n
 e-mail: wangguohuakey {at} gmail.com \n 
 CV: [file/cv_eng.pdf English version]
 
@@ -24,19 +23,27 @@ CV: [file/cv_eng.pdf English version]
 
 === Career
 
-- 2023.7--present, algorithm researcher & engineer at [https://consumer.huawei.com/cn/mobileservices/ Consumer Cloud Service CBG], [https://www.huawei.com/ Huawei].
+- 2024.8--present, algorithm researcher & engineer at [https://www.alibaba.com/ Alibaba].
+- 2023.7--2024.8, algorithm researcher & engineer at [https://consumer.huawei.com/cn/mobileservices/ Consumer Cloud Service CBG], [https://www.huawei.com/ Huawei].
 - 2022.3--2022.10, intern at [https://www.microsoft.com/en-us/research/group/media-computing-group/ Media Computing], [https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/ MSRA], [https://www.microsoft.com/en-us/research/ Microsoft].
 - 2021.7--2021.11, intern at [https://open.youtu.qq.com/\#/open YouTu Lab], [https://www.tencent.com/zh-cn Tencent].
 
 == Research Interests
 
 His research interests include *Machine Learning* and *Deep Learning*. Currently, he focuses on:\n
+- *Image Generation*: Diffusion, Flow Matching.
 - *Multi-model Learning*: Knowledge Distillation, Model Compression/Acceleration.  
 - *Few-label Learning*: Semi-Supervised Learning, Few-shot Learning.
 
 == Publications
 
 === Conference Articles
+
+- *Dense Vision Transformer Compression with Few Samples* \n
+Hanxiao Zhang, Yifan Zhou, _Guo-Hua Wang_. \n
+In: Proc. the IEEE/CVF Conference on Computer Vision and Pattern Recognition  ([https://cvpr.thecvf.com/Conferences/2024 CVPR 2024]), Seattle WA, USA, June 2024, pp. 15825-15834. \n
+[https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Dense_Vision_Transformer_Compression_with_Few_Samples_CVPR_2024_paper.html \[Open Access\]][https://arxiv.org/abs/2403.18708 \[arXiv\]][https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Dense_Vision_Transformer_Compression_with_Few_Samples_CVPR_2024_paper.pdf \[PDF\]][https://github.com/Michelia-zhx/dcvit \[code\]]
+
 
 - *Practical Network Acceleration with Tiny Sets* \n
 _Guo-Hua Wang_, Jianxin Wu. \n 
@@ -56,6 +63,11 @@ In: Proc. the 34th AAAI Conference on Artificial Intelligence ([https://aaai.org
 
 === Journal Articles
 
+- *Practical Network Acceleration with Tiny Sets: Hypothesis, Theory, and Algorithm* (+His best paper+) \n 
+_Guo-Hua Wang_, Jianxin Wu. \n 
+IEEE Transactions on Pattern Analysis and Machine Intelligence ([https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34 TPAMI]), 46(12):9272 - 9285, 2024. \n 
+[https://ieeexplore.ieee.org/document/10571608 \[IEEE Xplore\]][https://arxiv.org/abs/2303.00972 \[arXiv\]][file/Practise_Journal.pdf \[PDF\]][https://github.com/DoctorKey/Practise \[code\]] 
+
 - *How to Reduce Change Detection to Semantic Segmentation* \n
 _Guo-Hua Wang_, Bin-Bin Gao, Chengjie Wang. \n
 Pattern Recognition ([https://www.sciencedirect.com/journal/pattern-recognition PR]), Vol. 138, Article 109384, 2023. \n 
@@ -67,11 +79,6 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence ([https://ieeexpl
 [https://ieeexplore.ieee.org/document/9511848 \[IEEE Xplore\]][https://arxiv.org/abs/2011.01424 \[arXiv\]][file/LSHKD.pdf \[PDF\]][https://github.com/DoctorKey/LSHFM.singleclassification \[code\]] 
 
 === Technical Reports
-
-- *Practical Network Acceleration with Tiny Sets: Hypothesis, Theory, and Algorithm* (+His best paper+) \n 
-_Guo-Hua Wang_, Jianxin Wu. \n 
-In arXiv preprint arXiv:2303.00972, 2023. \n 
-[https://arxiv.org/abs/2303.00972 \[arXiv\]][file/Practise_Journal.pdf \[PDF\]][https://github.com/DoctorKey/Practise \[code\]] 
 
 - *R2-D2: Repetitive Reprediction Deep Decipher for Semi-Supervised Deep Learning* \n 
 _Guo-Hua Wang_, Jianxin Wu. \n 
@@ -141,7 +148,6 @@ _Guo-Hua Wang_
 === Mail
 
 Guo-Hua Wang \n
-Huawei\n
-Building 1, Haiwei Center, 101 Binkang Avenue, Binjiang District\n
+Alibaba\n
 Hangzhou 310000, China\n
 
