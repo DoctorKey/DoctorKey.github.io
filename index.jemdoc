@@ -39,6 +39,16 @@ His research interests include *Machine Learning* and *Deep Learning*. Currently
 
 === Conference Articles
 
+- *TeEFusion: Blending Text Embeddings to Distill Classifier-Free Guidance* \n
+Minghao Fu, _Guo-Hua Wang_, Xiaohao Chen, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang. \n
+In: Proc. International Conference on Computer Vision ([https://iccv.thecvf.com/ ICCV 2025]), Honolulu, Hawai'i, Oct 2025, pp. xx-xx. \n
+
+- *CHATS: Combining Human-Aligned Optimization and Test-Time Sampling for Text-to-Image Generation* \n
+Minghao Fu, _Guo-Hua Wang_, Liangfu Cao, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang. \n
+In: Proc. the International Conference on Machine Learning ([https://icml.cc/Conferences/2025 ICML 2025]), Vancouver, Canada, July 2025, pp. xx-xx. \n
+[https://arxiv.org/abs/2502.12579 \[arXiv\]][https://github.com/AIDC-AI/CHATS \[code\]]
+
+
 - *Dense Vision Transformer Compression with Few Samples* \n
 Hanxiao Zhang, Yifan Zhou, _Guo-Hua Wang_. \n
 In: Proc. the IEEE/CVF Conference on Computer Vision and Pattern Recognition  ([https://cvpr.thecvf.com/Conferences/2024 CVPR 2024]), Seattle WA, USA, June 2024, pp. 15825-15834. \n
@@ -79,6 +89,21 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence ([https://ieeexpl
 [https://ieeexplore.ieee.org/document/9511848 \[IEEE Xplore\]][https://arxiv.org/abs/2011.01424 \[arXiv\]][file/LSHKD.pdf \[PDF\]][https://github.com/DoctorKey/LSHFM.singleclassification \[code\]] 
 
 === Technical Reports
+
+- *Ovis-U1 Technical Report* \n
+_Guo-Hua Wang_, Shanshan Zhao, Xinjie Zhang, Liangfu Cao, Pengxin Zhan, Lunhao Duan, Shiyin Lu, Minghao Fu, Xiaohao Chen, Jianshan Zhao, Yang Li, Qing-Guo Chen \n 
+In arXiv preprint arXiv:2506.23044, 2025. \n
+[https://arxiv.org/abs/2506.23044 \[arXiv\]][https://github.com/AIDC-AI/Ovis-U1 \[code\]][https://huggingface.co/AIDC-AI/Ovis-U1-3B \[model\]][https://huggingface.co/spaces/AIDC-AI/Ovis-U1-3B \[demo\]]
+
+- *Unified multimodal understanding and generation models: Advances, challenges, and opportunities* \n
+Xinjie Zhang, Jintao Guo, Shanshan Zhao, Minghao Fu, Lunhao Duan, _Guo-Hua Wang_, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang \n 
+In arXiv preprint arXiv:2505.02567, 2025. \n
+[https://arxiv.org/abs/2505.02567 \[arXiv\]][https://github.com/AIDC-AI/Awesome-Unified-Multimodal-Models \[code\]]
+
+- *Evaluating Image Caption via Cycle-consistent Text-to-Image Generation* \n
+Tianyu Cui, Jinbin Bai, _Guo-Hua Wang_, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang, Ye Shi \n
+In arXiv preprint arXiv:2501.03567, 2025. \n 
+[https://arxiv.org/abs/2501.03567 \[arXiv\]]
 
 - *R2-D2: Repetitive Reprediction Deep Decipher for Semi-Supervised Deep Learning* \n 
 _Guo-Hua Wang_, Jianxin Wu. \n 
