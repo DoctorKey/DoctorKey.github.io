@@ -41,12 +41,14 @@ His research interests include *Machine Learning* and *Deep Learning*. Currently
 
 - *TeEFusion: Blending Text Embeddings to Distill Classifier-Free Guidance* \n
 Minghao Fu, _Guo-Hua Wang_, Xiaohao Chen, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang. \n
-In: Proc. International Conference on Computer Vision ([https://iccv.thecvf.com/ ICCV 2025]), Honolulu, Hawai'i, Oct 2025, pp. xx-xx. \n
+In: Proc. International Conference on Computer Vision ([https://iccv.thecvf.com/ ICCV 2025]), Honolulu, Hawai'i, Oct 2025, pp. 16652-16661. \n
+[https://openaccess.thecvf.com/content/ICCV2025/html/Fu_TeEFusion_Blending_Text_Embeddings_to_Distill_Classifier-Free_Guidance_ICCV_2025_paper.html \[Open Access\]][https://arxiv.org/abs/2507.18192 \[arXiv\]][file/TeEFusion.pdf \[PDF\]][https://github.com/AIDC-AI/TeEFusion \[code\]][https://huggingface.co/AIDC-AI/TeEFusion \[model\]]
+
 
 - *CHATS: Combining Human-Aligned Optimization and Test-Time Sampling for Text-to-Image Generation* \n
 Minghao Fu, _Guo-Hua Wang_, Liangfu Cao, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang. \n
-In: Proc. the International Conference on Machine Learning ([https://icml.cc/Conferences/2025 ICML 2025]), Vancouver, Canada, July 2025, pp. xx-xx. \n
-[https://arxiv.org/abs/2502.12579 \[arXiv\]][https://github.com/AIDC-AI/CHATS \[code\]]
+In: Proc. the International Conference on Machine Learning ([https://icml.cc/Conferences/2025 ICML 2025]), Vancouver, Canada, July 2025, PMLR 267:17852-17874. \n
+[https://proceedings.mlr.press/v267/fu25g.html \[PMLR\]][https://arxiv.org/abs/2502.12579 \[arXiv\]][file/CHATS.pdf \[PDF\]][file/CHATS_poster.png \[poster\]][https://icml.cc/virtual/2025/poster/46027 \[virtual\]][https://github.com/AIDC-AI/CHATS \[code\]][https://huggingface.co/AIDC-AI/CHATS \[model\]][https://huggingface.co/spaces/AIDC-AI/CHATS \[demo\]]
 
 
 - *Dense Vision Transformer Compression with Few Samples* \n
@@ -90,6 +92,11 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence ([https://ieeexpl
 
 === Technical Reports
 
+- *Diffusion-SDPO: Safeguarded Direct Preference Optimization for Diffusion Models* \n
+Minghao Fu, _Guo-Hua Wang_, Tianyu Cui, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang \n
+In arXiv preprint arXiv:2511.03317, 2025. \n
+[https://arxiv.org/abs/2511.03317 \[arXiv\]][https://github.com/AIDC-AI/Diffusion-SDPO \[code\]][https://huggingface.co/AIDC-AI/Diffusion-SDPO \[model\]]
+
 - *Ovis-U1 Technical Report* \n
 _Guo-Hua Wang_, Shanshan Zhao, Xinjie Zhang, Liangfu Cao, Pengxin Zhan, Lunhao Duan, Shiyin Lu, Minghao Fu, Xiaohao Chen, Jianshan Zhao, Yang Li, Qing-Guo Chen \n 
 In arXiv preprint arXiv:2506.23044, 2025. \n
@@ -131,7 +138,7 @@ _Guo-Hua Wang_
 
 === Conference Reviewers
 
-- [http://cvpr2023.thecvf.com/ CVPR2023], [http://cvpr2022.thecvf.com/ CVPR2022], [http://cvpr2021.thecvf.com/ CVPR2021]
+- [https://cvpr.thecvf.com/Conferences/2024 CVPR2024], [https://cvpr.thecvf.com/Conferences/2023 CVPR2023], [http://cvpr2022.thecvf.com/ CVPR2022], [http://cvpr2021.thecvf.com/ CVPR2021]
 - [https://iccv2023.thecvf.com/ ICCV2023], [http://iccv2021.thecvf.com/ ICCV2021]
 - [https://eccv2022.ecva.net/ ECCV2022], [https://eccv2020.eu/ ECCV2020]
 - [https://neurips.cc/Conferences/2023 NeurIPS2023]
