@@ -92,6 +92,11 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence ([https://ieeexpl
 
 === Technical Reports
 
+- *Ovis-Image Technical Report* \n
+_Guo-Hua Wang_, Liangfu Cao, Tianyu Cui, Minghao Fu, Xiaohao Chen, Pengxin Zhan, Jianshan Zhao, Lan Li, Bowen Fu, Jiaqi Liu, Qing-Guo Chen \n 
+In arXiv preprint arXiv:2511.22982, 2025. \n
+[https://arxiv.org/abs/2511.22982 \[arXiv\]][https://github.com/AIDC-AI/Ovis-Image \[code\]][https://huggingface.co/AIDC-AI/Ovis-Image-7B \[model\]][https://huggingface.co/spaces/AIDC-AI/Ovis-Image-7B \[demo\]]
+
 - *Diffusion-SDPO: Safeguarded Direct Preference Optimization for Diffusion Models* \n
 Minghao Fu, _Guo-Hua Wang_, Tianyu Cui, Qing-Guo Chen, Zhao Xu, Weihua Luo, Kaifu Zhang \n
 In arXiv preprint arXiv:2511.03317, 2025. \n
